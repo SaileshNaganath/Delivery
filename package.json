@@ -1,0 +1,20 @@
+{
+  "name": "delivery",
+  "version": "1.0.0",
+  "description": "Simple delivery service like a courier service",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaileshNaganath/Delivery.git"
+  },
+  "author": "Sailesh Naganath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaileshNaganath/Delivery/issues"
+  },
+  "homepage": "https://github.com/SaileshNaganath/Delivery#readme"
+}
